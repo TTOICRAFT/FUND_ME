@@ -20,8 +20,8 @@ This is a minimal smart contract project that allows users to fund the contract 
 ### ⚡ Quickstart
 
 ```bash
-git clone https://github.com/Cyfrin/foundry-fund-me-cu
-cd foundry-fund-me-cu
+git clone https://github.com/TTOICRAFT/FUND_ME
+cd FUND_ME
 make
 ```
 
